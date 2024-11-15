@@ -6,16 +6,16 @@ A computational Study of their Potential for Cooling and Heating Applications.
 
 ## Table of Contents
 
-##Generating figures of propane adsorption isotherms in MOFs studied
-All_Isotherms_at_298K.ipynb,
-All_Isotherms_at_363K.ipynb,
+##Generating figures of propane adsorption isotherms in MOFs studied:
+All_Isotherms_at_298K.ipynb
+All_Isotherms_at_363K.ipynb
 
-##Generating figures of mechanical properties of MOFs studied 
+##Generating figures of mechanical properties of MOFs studied:
 Bulk_Modulus_Hill_Average_GPa.ipynb
 Shear_Modulus_Hill_Average_GPa.ipynb
 Young_Modulus_Hill_Average_GPa.ipynb
 
-##Generating figures of working capacity of the MOFs studied
+##Generating figures of working capacity of the MOFs studied:
 Working_Capacity__Cooling.ipynb
 Working_Capacity__Heating.ipynb
 
@@ -29,5 +29,5 @@ Heating_calc1.csv
 ##Raw data for the application of MOFs for adsorption heat pump for cooling:
 Refrigiration_calc1.csv
 
-##Raw data of the mechanical properties of the MOFs studied
+##Raw data of the mechanical properties of the MOFs studied:
 mech_prop.csv
